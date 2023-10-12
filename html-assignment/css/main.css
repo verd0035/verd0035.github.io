@@ -1,0 +1,38 @@
+body {
+    font-size: 18px;
+}
+header, footer{
+background-color: pink
+}
+.site-title{
+    color: white 
+}
+#my-image {
+    box-shadow: 0px 0px 2px 1px black
+}
+ul {
+    list-style-type: square;
+}
+li:nth-child(1){
+    background-color: palevioletred;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    background-color: lightblue;
+    border-style:solid;
+    border-color:blue
+}
+a:link{
+    color:navy
+}
+a:visited{
+    color:chartreuse
+}
+a:hover{
+   color:coral 
+}
+a:active {
+    color:darkslategray
+}
