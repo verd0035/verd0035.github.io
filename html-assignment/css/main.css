@@ -22,16 +22,16 @@ a{
 nav{
     background-color: lightblue;
     border-style:solid;
-    border-color:blue
+    border-color:rgb(165, 119, 206)
 }
 a:link{
-    color:navy
+    color:rgb(59, 135, 216)
 }
 a:visited{
-    color:chartreuse
+    color:rgb(11, 170, 249)
 }
 a:hover{
-   color:coral 
+   color:rgb(118, 147, 210) 
 }
 a:active {
     color:darkslategray
