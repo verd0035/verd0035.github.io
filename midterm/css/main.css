@@ -1,0 +1,91 @@
+header {
+    padding: 100px 50px;
+    text-align: center;
+    text-transform: none;
+    color: white;
+    background-image: url("../images/lone-starfish-wide.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color:#aad4cf;
+}
+
+body {
+    background-color: #aad4cf;
+    background-position: center;
+    padding: 50px 100px;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.5rem;
+  text-transform:none;
+}
+
+.nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.nav li {
+  display:inline;
+  margin-left: 190px;
+}
+
+.nav li {
+  text-decoration: none;
+  color: black;
+}
+
+.nav li {
+  border-left-style:inset;
+  color:black;
+}
+
+p {
+    text-transform: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+
+img {
+    width: 200px;
+    float: left;
+}
+
+nav {
+  text-transform: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1rem;
+}
+
+form {
+  text-transform: none;
+  font-size: 1rem;
+}
+
+form {
+  text-transform: none;
+  font-size: 1rem;
+}
+
+section {
+  border-style: hidden;
+  background-color: #cffdf7;
+}
+
+article {
+  border-style: inset;
+  border-color: black;
+  background-color: #cffdf7;
+  position: center;
+}
+
+footer {
+  transform: none;
+  font-size: 0.7rem;
+  float: right;
+}
+
+
