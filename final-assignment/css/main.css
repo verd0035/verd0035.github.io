@@ -1,14 +1,90 @@
+
+
+h1 {
+  font-size: 100px;
+}
+
 header {
-    font-size: 35px;
-    text-align: left;
+  background-image: url('../images/about-us.jpg');
+  background-size: cover;
+  height: 95vh;
+  background-position: center;
+  font-size: 23px;
+  text-align: left;
+}
+
+div.background {
+  background: url('../images/main-banner.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+div.transbox {
+  background-color: #000000;
+  border: 1px solid black;
+  opacity: 0.6;
+  padding-top: 0.10%;
+  padding-bottom: 0.10%;
+}
+
+div.transbox p {
+  margin: 13%;
+  font-size: 23px;
+  text-align: left;
+  color: white;
+
+  }
+
+div {
+  background-color: orange;
+}
+
+nav {
+  background-color: #171313;
+}
+
+body {
+  font-family: Arial;
+
+}
+
+.overlay {
+  width: 740px;
+  position: relative;
+  top: -520px;
+  font-size: 40px;
+  color: white;
+  background-color: black;
+}
+
+.overlay h1 {
+  padding: 12px;
+}
+
+.overlay p {
+  padding: 10px;
+  font-size: 15px;
+  font-weight: lighter;
 }
 
 h2 {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 h4 {
-    text-align: center;
+  text-align: center;
+    
+}
+
+header {
+  background-image: url('../images/vision.jpg'); 
+  background-size: cover;
+  height: 95vh;
+  font-size: 23px;
+  text-align: left;
+
 }
 
 table {
@@ -17,14 +93,20 @@ table {
     width: 100%;
   }
   
-  th {
+th {
     background-color: rgb(248, 229, 175);
     text-align: center;
   }
-  td, th {
+
+td, th {
     border: 1px solid #171313;
     text-align: left;
     padding: 8px;
   }
   
- 
+footer {
+  background-color: #000000;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+}
